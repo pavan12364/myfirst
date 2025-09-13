@@ -1,0 +1,26 @@
+.name{
+color:black;
+font-size:30px;
+font-weight: bold;
+
+}
+.price{
+color: blue;
+font-weight: bold;
+
+}
+.instock{
+color:green;
+}
+.outstock{
+color:red;
+}
+.Containermain{
+    border: 1px solid black;
+    width: fit-content;
+    padding: 10px 10px;
+}
+.container{
+    display: flex;
+
+}
